@@ -1,0 +1,7 @@
+{ 
+	"components" : {
+		"localFolder": "library/",
+		"repository": "https://github.com/eugenealvizo/TreeLibrary.git",
+		"branch": "master"
+	}
+}
