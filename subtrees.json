@@ -1,6 +1,6 @@
 { 
-	"components" : {
-		"localFolder": "library/",
+	"style" : {
+		"localFolder": "style/",
 		"repository": "https://github.com/eugenealvizo/TreeLibrary.git",
 		"branch": "master"
 	}
